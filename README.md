@@ -6,4 +6,7 @@ There are two files in this repo. The first is my python code in a Jupyter Noteb
 ![Alt Text 1](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J-1.0B0.0.gif) ![Alt Text 2](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J1.0B0.0.gif)
 
 
-![Alt Text 3](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT2gs120J1.0B0.0.gif) ![Alt Text 4](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J1.0B0.0.gif)
+![Alt Text 3](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT3.5gs120J1.0B0.0.gif) ![Alt Text 4](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J1.0B0.0.gif)
+
+![Alt Text 5](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/triT1.2gs52J1.0B0.0.gif) ![Alt Text 6](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/triT6.0gs52J1.0B1.0.gif)
+
