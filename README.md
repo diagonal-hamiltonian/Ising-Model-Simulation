@@ -11,8 +11,9 @@ There are two files in this repo. The first is my python code in a Jupyter Noteb
 
 #Triangular gifs
 
-<img src="https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/triT1.2gs52J1.0B0.0.gif" width="290" height="290"/><img src="https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/triT6.0gs52J1.0B1.0.gif" width="290" height="290"/>
-
+<p align="center">
+  <img src="https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/triT1.2gs52J1.0B0.0.gif" width="290" height="290"/><img src="https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/triT6.0gs52J1.0B1.0.gif" width="290" height="290"/>
+</p>
 
 
 
