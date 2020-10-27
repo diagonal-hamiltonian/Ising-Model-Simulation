@@ -3,8 +3,10 @@ This is a simulation and analysis of the Ising model of ferromagnetism on a squa
 
 There are two files in this repo. The first is my python code in a Jupyter Notebook, and the second is a report of my findings. This was a pretty fun model to code and it creates some beautiful data and physics to visualise like gifs below!
 
-<img src="https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J-1.0B0.0.gif" width="48">
 ![Alt Text 1](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J-1.0B0.0.gif) ![Alt Text 2](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J1.0B0.0.gif)
+<img src="https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J-1.0B0.0.gif" width="250" height="250"/>
+<img src="https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J1.0B0.0.gif" width="250" height="250"/>
+
 
 
 ![Alt Text 3](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT3.5gs120J1.0B0.0.gif) ![Alt Text 4](https://github.com/diagonal-hamiltonian/Ising-Model-Simulation/blob/main/squT1.2gs120J1.0B0.0.gif)
