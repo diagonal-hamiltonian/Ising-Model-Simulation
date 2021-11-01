@@ -1,5 +1,5 @@
 # Ising-Model-Simulation
-This is a simulation and analysis of the Ising model of ferromagnetism on a square and triangular lattice. It was an assignment for a computer simulation module in my 3rd year of college.
+Computational simulation and analysis of the Ising model of ferromagnetism on a square and triangular lattice. This is a project completed for a computer simulation module during 3rd year of .
 
 There are two files in this repo. The first is my python code in a Jupyter Notebook, and the second is a report of my findings. This was a pretty fun model to code and it creates some beautiful data and physics to visualise like gifs below! I would encourage anyone who is interested in this model to have a read through my report.
 
